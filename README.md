@@ -78,13 +78,10 @@ Veja o arquivo `LICENSE` para mais detalhes.
 ---
 
 ## ⚛️ Conheça o Nosso Grupo GNC
+<p align="center">
+<img src="https://github.com/HenriqueDFT/DOS-viewer/blob/main/qr.png" width="30%">
+<p>
+ Autor: Henrique Lago L.
+este software foi desenvolvido para auxiliar e otimizar trabalhos na área da Teoria do Funcional da Densidade (DFT).
+Foi criado durante minha iniciação científica voluntária na Universidade Federal do Piauí (UFPI), sob orientação do Professor Dr. Ramon Sampaio F., como membro do Grupo de Nanofísica Computacional (GNC/UFPI).
 
-![](https://github.com/HenriqueDFT/DOS-viewer/blob/main/qr.png)
-
- '''   
-     Autor: Henrique Lago L.
-     Este software foi desenvolvido com intuito de auxiliar e otimizar os trabalhos na área da teoria do funcional da densidade(DFT).
-     Foi desenvolvido durante minha iniciação científica voluntária,sob orientação do professor Dr.Ramon Sampaio F. na Universidade Federal 
-     do Piauí (UFPI),como membro do grupo de Nanofísica Computacional (GNC/UFPI)
-
-   
