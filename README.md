@@ -40,7 +40,7 @@ pip install -r requirements.txt
 
 ### ▶️ Como Usar
 
-Execute o script principal a partir do terminal:
+Execute o script principal na pasta a partir do terminal:
 
 ```bash
 python3 DOS_viewer.py
