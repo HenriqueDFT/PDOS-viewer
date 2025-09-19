@@ -1,8 +1,8 @@
-# Visualizador de Densidade de Estados (DOS-viewer)
+# Visualizador de Densidade de Estados Parciais (PDOS-viewer)
 
 ## 💻 Sobre o Projeto
 
-O **DOS-viewer** é um software de desktop desenvolvido em Python com **PyQt5** e **Matplotlib** para facilitar a visualização e análise de arquivos de Densidade de Estados (DOS) e Densidade de Estados Parciais (PDOS).
+O **PDOS-viewer** é um software de desktop desenvolvido em Python com **PyQt5** e **Matplotlib** para facilitar a visualização e análise de arquivos de Densidade de Estado (DOS) e Densidade de Estados Parciais (PDOS).
 
 O software permite:
 - **Carregamento de Múltiplos Arquivos:** Visualize várias curvas PDOS no mesmo gráfico.
